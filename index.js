@@ -3,3 +3,5 @@ function divide(){
 }
 
 const square = number => number * number
+
+const add = (param1, param2) = param1 + param2
