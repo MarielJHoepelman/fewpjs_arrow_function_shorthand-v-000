@@ -1,3 +1,3 @@
 function divide(firstParam, secondParam) {
-  return firstParam / secondParam
+  console.log(firstParam, secondParam)
 }
