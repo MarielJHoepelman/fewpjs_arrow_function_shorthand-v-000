@@ -1,3 +1,3 @@
 function divide(){
-  console.log(firstParam, secondParam)
+  return 2000/100
 }
