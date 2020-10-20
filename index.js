@@ -1,3 +1,3 @@
-function divide(firstParam, secondParam) {
+function divide(){
   console.log(firstParam, secondParam)
 }
